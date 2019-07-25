@@ -1,0 +1,6 @@
+framework module Pods_AdvancedFirebaseTechCampus {
+  umbrella header "Pods-AdvancedFirebaseTechCampus-umbrella.h"
+
+  export *
+  module * { export * }
+}
